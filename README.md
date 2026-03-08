@@ -27,4 +27,7 @@ It combines real-world place data with a lightweight social layer (profiles, che
    - `GoogleService-Info.plist` (Firebase)
    - Any local API key configuration
 4. Build & run on Xcode
-   
+
+## Contributors
+- Berat Porsuk
+- Sudenaz Emiroğlu  
